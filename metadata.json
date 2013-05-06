@@ -1,0 +1,21 @@
+{
+  "name": "einternicola-phantomjs",
+  "author": "einternicola",
+  "description": "",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "version": "",
+  "checksums": {
+    ".project": "623a5cc68f74a3cfe70b531d98b2c26f",
+    "Modulefile": "9e4d60aa31d70849f6b788e671400578",
+    "README.markdown": "36107c8f0c50abfc4af3a7f1a6c67589",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "manifests/init.pp": "671c81b88728683d6e175581d21df98c",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests/init.pp": "c87c37dc7fe7bd8a47869b05b8126a01"
+  },
+  "dependencies": []
+}
