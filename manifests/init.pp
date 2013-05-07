@@ -3,6 +3,9 @@ class phantomjs::deps {
   package { 'libfontconfig':
     ensure => 'installed'
   }
+  package { 'liburi-perl' :
+    ensure => 'installed'
+  }
 }
 
 # Class: phantomjs
